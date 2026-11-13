@@ -1,0 +1,10 @@
+GEOPULSE GPS VALIDATION REPORT
+========================================
+Total records: 10000
+Unique devices: 500
+Missing values: 0
+Duplicate records: 0
+Invalid latitude: 0
+Invalid longitude: 0
+Invalid timestamps: 0
+Missing columns: []
