@@ -1,0 +1,16 @@
+StoreID,StoreName,Latitude,Longitude,StoreCategory,CatchmentRadiusMeters,City
+STORE_001,Connaught Coffee,28.6315,77.2167,Coffee,500,Delhi
+STORE_002,Central Cafe,28.632,77.219,Cafe,500,Delhi
+STORE_003,City Brew,28.6139,77.209,Coffee,500,Delhi
+STORE_004,South Point Cafe,28.615,77.212,Cafe,500,Delhi
+STORE_005,Market Coffee,28.5672,77.21,Coffee,500,Delhi
+STORE_006,Green Cup,28.569,77.213,Cafe,500,Delhi
+STORE_007,Metro Cafe,28.65,77.23,Cafe,500,Delhi
+STORE_008,Urban Brew,28.652,77.233,Coffee,500,Delhi
+STORE_009,Westside Coffee,28.7041,77.1025,Coffee,500,Delhi
+STORE_010,Garden Cafe,28.702,77.105,Cafe,500,Delhi
+STORE_011,Daily Beans,28.635,77.22,Coffee,500,Delhi
+STORE_012,Coffee Corner,28.618,77.215,Coffee,500,Delhi
+STORE_013,Morning Mug,28.572,77.208,Cafe,500,Delhi
+STORE_014,Express Cafe,28.647,77.225,Cafe,500,Delhi
+STORE_015,Bean House,28.7,77.11,Coffee,500,Delhi
