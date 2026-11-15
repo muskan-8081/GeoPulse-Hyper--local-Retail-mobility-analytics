@@ -1,0 +1,106 @@
+Store1,Store2,DistanceMeters,CatchmentOverlap
+Connaught Coffee,Central Cafe,231.26,True
+Connaught Coffee,City Brew,2096.38,False
+Connaught Coffee,South Point Cafe,1891.2,False
+Connaught Coffee,Market Coffee,7179.69,False
+Connaught Coffee,Green Cup,6959.06,False
+Connaught Coffee,Metro Cafe,2432.35,False
+Connaught Coffee,Urban Brew,2779.64,False
+Connaught Coffee,Westside Coffee,13758.99,False
+Connaught Coffee,Garden Cafe,13424.63,False
+Connaught Coffee,Daily Beans,505.16,True
+Connaught Coffee,Coffee Corner,1510.27,False
+Connaught Coffee,Morning Mug,6670.39,False
+Connaught Coffee,Express Cafe,1904.37,False
+Connaught Coffee,Bean House,12899.26,False
+Central Cafe,City Brew,2236.82,False
+Central Cafe,South Point Cafe,2010.0,False
+Central Cafe,Market Coffee,7258.81,False
+Central Cafe,Green Cup,7029.73,False
+Central Cafe,Metro Cafe,2271.21,False
+Central Cafe,Urban Brew,2610.04,False
+Central Cafe,Westside Coffee,13909.18,False
+Central Cafe,Garden Cafe,13575.45,False
+Central Cafe,Daily Beans,347.57,True
+Central Cafe,Coffee Corner,1604.94,False
+Central Cafe,Morning Mug,6757.57,False
+Central Cafe,Express Cafe,1767.72,False
+Central Cafe,Bean House,13048.72,False
+City Brew,South Point Cafe,317.36,True
+City Brew,Market Coffee,5193.72,False
+City Brew,Green Cup,5007.9,False
+City Brew,Metro Cafe,4507.1,False
+City Brew,Urban Brew,4840.93,False
+City Brew,Westside Coffee,14442.26,False
+City Brew,Garden Cafe,14104.66,False
+City Brew,Daily Beans,2580.2,False
+City Brew,Coffee Corner,742.2,True
+City Brew,Morning Mug,4660.09,False
+City Brew,Express Cafe,3998.13,False
+City Brew,Bean House,13600.44,False
+South Point Cafe,Market Coffee,5318.7,False
+South Point Cafe,Green Cup,5115.9,False
+South Point Cafe,Metro Cafe,4269.95,False
+South Point Cafe,Urban Brew,4596.44,False
+South Point Cafe,Westside Coffee,14570.8,False
+South Point Cafe,Garden Cafe,14233.24,False
+South Point Cafe,Daily Beans,2356.99,False
+South Point Cafe,Coffee Corner,443.88,True
+South Point Cafe,Morning Mug,4797.3,False
+South Point Cafe,Express Cafe,3777.68,False
+South Point Cafe,Bean House,13725.34,False
+Market Coffee,Green Cup,354.81,True
+Market Coffee,Metro Cafe,9411.67,False
+Market Coffee,Urban Brew,9692.95,False
+Market Coffee,Westside Coffee,18487.72,False
+Market Coffee,Garden Cafe,18157.18,False
+Market Coffee,Daily Beans,7601.96,False
+Market Coffee,Coffee Corner,5669.76,False
+Market Coffee,Morning Mug,568.35,True
+Market Coffee,Express Cafe,8993.37,False
+Market Coffee,Bean House,17700.42,False
+Green Cup,Metro Cafe,9158.4,False
+Green Cup,Urban Brew,9433.42,False
+Green Cup,Westside Coffee,18492.41,False
+Green Cup,Garden Cafe,18160.61,False
+Green Cup,Daily Beans,7370.61,False
+Green Cup,Coffee Corner,5452.05,False
+Green Cup,Morning Mug,591.35,True
+Green Cup,Express Cafe,8751.96,False
+Green Cup,Bean House,17698.38,False
+Metro Cafe,Urban Brew,367.63,True
+Metro Cafe,Westside Coffee,13816.66,False
+Metro Cafe,Garden Cafe,13495.95,False
+Metro Cafe,Daily Beans,1932.44,False
+Metro Cafe,Coffee Corner,3847.62,False
+Metro Cafe,Morning Mug,8935.13,False
+Metro Cafe,Express Cafe,591.05,True
+Metro Cafe,Bean House,12960.02,False
+Urban Brew,Westside Coffee,13987.03,False
+Urban Brew,Garden Cafe,13668.9,False
+Urban Brew,Daily Beans,2276.56,False
+Urban Brew,Coffee Corner,4168.83,False
+Urban Brew,Morning Mug,9224.27,False
+Urban Brew,Express Cafe,958.4,True
+Urban Brew,Bean House,13132.95,False
+Westside Coffee,Garden Cafe,337.61,True
+Westside Coffee,Daily Beans,13800.41,False
+Westside Coffee,Coffee Corner,14565.26,False
+Westside Coffee,Morning Mug,17937.91,False
+Westside Coffee,Express Cafe,13532.65,False
+Westside Coffee,Bean House,861.93,True
+Garden Cafe,Daily Beans,13468.02,False
+Garden Cafe,Coffee Corner,14228.03,False
+Garden Cafe,Morning Mug,17606.84,False
+Garden Cafe,Express Cafe,13208.13,False
+Garden Cafe,Bean House,535.98,True
+Daily Beans,Coffee Corner,1952.29,False
+Daily Beans,Morning Mug,7102.56,False
+Daily Beans,Express Cafe,1420.76,False
+Daily Beans,Bean House,12938.97,False
+Coffee Corner,Morning Mug,5160.42,False
+Coffee Corner,Express Cafe,3369.11,False
+Coffee Corner,Bean House,13714.94,False
+Morning Mug,Express Cafe,8503.13,False
+Morning Mug,Bean House,17147.9,False
+Express Cafe,Bean House,12672.94,False

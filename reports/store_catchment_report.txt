@@ -1,0 +1,34 @@
+
+GEOPULSE - DAY 4 CATCHMENT ANALYSIS
+====================================
+
+Total GPS Records: 10000
+Total Retail Stores: 15
+Total Store Pairs Analysed: 105
+Store Pairs with Overlapping Catchments: 15
+
+STORE FOOTFALL SUMMARY
+----------------------
+  StoreID        StoreName StoreCategory  GPSPingsWithinCatchment  CatchmentRadiusMeters
+STORE_001 Connaught Coffee        Coffee                     1451                    500
+STORE_002     Central Cafe          Cafe                     1249                    500
+STORE_003        City Brew        Coffee                     1448                    500
+STORE_004 South Point Cafe          Cafe                     1113                    500
+STORE_005    Market Coffee        Coffee                     1404                    500
+STORE_006        Green Cup          Cafe                     1023                    500
+STORE_007       Metro Cafe          Cafe                     1385                    500
+STORE_008       Urban Brew        Coffee                      976                    500
+STORE_009  Westside Coffee        Coffee                     1475                    500
+STORE_010      Garden Cafe          Cafe                     1073                    500
+STORE_011      Daily Beans        Coffee                      728                    500
+STORE_012    Coffee Corner        Coffee                      282                    500
+STORE_013      Morning Mug          Cafe                      603                    500
+STORE_014     Express Cafe          Cafe                      526                    500
+STORE_015       Bean House        Coffee                      149                    500
+
+Note:
+This analysis uses synthetic GPS data and approximate
+store coordinates. Overlap means the two circular
+catchment radii intersect or touch.
+GPS pings are counted independently for each store,
+so the same ping may be counted for multiple stores.
