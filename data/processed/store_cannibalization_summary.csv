@@ -1,0 +1,16 @@
+StoreID,StoreName,StoreCategory,GPSPingsWithinCatchment,SharedPingCountsAcrossOtherStores
+STORE_001,Connaught Coffee,Coffee,1451,1703
+STORE_002,Central Cafe,Cafe,1249,1772
+STORE_003,City Brew,Coffee,1448,1147
+STORE_004,South Point Cafe,Cafe,1113,1230
+STORE_005,Market Coffee,Coffee,1404,1347
+STORE_006,Green Cup,Cafe,1023,1283
+STORE_007,Metro Cafe,Cafe,1385,1219
+STORE_008,Urban Brew,Coffee,976,854
+STORE_009,Westside Coffee,Coffee,1475,971
+STORE_010,Garden Cafe,Cafe,1073,1064
+STORE_011,Daily Beans,Coffee,728,1203
+STORE_012,Coffee Corner,Coffee,282,421
+STORE_013,Morning Mug,Cafe,603,858
+STORE_014,Express Cafe,Cafe,526,413
+STORE_015,Bean House,Coffee,149,183

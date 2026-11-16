@@ -1,0 +1,55 @@
+
+GEOPULSE - DAY 5 CANNIBALIZATION ANALYSIS
+==========================================
+
+Total GPS Records: 10000
+Total Retail Stores: 15
+Total Store Pairs Analysed: 105
+
+Geometrically Overlapping Pairs: 15
+High Spatial Competition Pairs: 13
+
+TOP 10 STORE PAIRS
+-------------------
+          Store1           Store2  DistanceMeters  GeometricOverlap  SharedGPSPings  Store1SharedPercentage  Store2SharedPercentage  AverageSharedPercentage CompetitionRisk
+Connaught Coffee     Central Cafe          231.26              True            1136                   78.29                   90.95                    84.62            High
+       City Brew South Point Cafe          317.36              True             978                   67.54                   87.87                    77.71            High
+   Market Coffee        Green Cup          354.81              True             886                   63.11                   86.61                    74.86            High
+ Westside Coffee      Garden Cafe          337.61              True             926                   62.78                   86.30                    74.54            High
+      Metro Cafe       Urban Brew          367.63              True             830                   59.93                   85.04                    72.48            High
+    Central Cafe      Daily Beans          347.57              True             636                   50.92                   87.36                    69.14            High
+Connaught Coffee      Daily Beans          505.16              True             567                   39.08                   77.88                    58.48            High
+South Point Cafe    Coffee Corner          443.88              True             252                   22.64                   89.36                    56.00            High
+   Market Coffee      Morning Mug          568.35              True             461                   32.83                   76.45                    54.64            High
+     Garden Cafe       Bean House          535.98              True             138                   12.86                   92.62                    52.74            High
+
+STORE LEVEL SUMMARY
+--------------------
+  StoreID        StoreName StoreCategory  GPSPingsWithinCatchment  SharedPingCountsAcrossOtherStores
+STORE_001 Connaught Coffee        Coffee                     1451                               1703
+STORE_002     Central Cafe          Cafe                     1249                               1772
+STORE_003        City Brew        Coffee                     1448                               1147
+STORE_004 South Point Cafe          Cafe                     1113                               1230
+STORE_005    Market Coffee        Coffee                     1404                               1347
+STORE_006        Green Cup          Cafe                     1023                               1283
+STORE_007       Metro Cafe          Cafe                     1385                               1219
+STORE_008       Urban Brew        Coffee                      976                                854
+STORE_009  Westside Coffee        Coffee                     1475                                971
+STORE_010      Garden Cafe          Cafe                     1073                               1064
+STORE_011      Daily Beans        Coffee                      728                               1203
+STORE_012    Coffee Corner        Coffee                      282                                421
+STORE_013      Morning Mug          Cafe                      603                                858
+STORE_014     Express Cafe          Cafe                      526                                413
+STORE_015       Bean House        Coffee                      149                                183
+
+IMPORTANT NOTES
+---------------
+This analysis uses synthetic GPS data and approximate
+store coordinates.
+
+Shared GPS pings indicate spatial audience overlap.
+They do not prove actual customer switching or
+sales cannibalization.
+
+Risk categories are analytical screening thresholds,
+not validated commercial predictions.

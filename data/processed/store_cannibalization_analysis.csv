@@ -1,0 +1,106 @@
+Store1,Store2,DistanceMeters,GeometricOverlap,SharedGPSPings,Store1SharedPercentage,Store2SharedPercentage,AverageSharedPercentage,CompetitionRisk
+Connaught Coffee,Central Cafe,231.26,True,1136,78.29,90.95,84.62,High
+City Brew,South Point Cafe,317.36,True,978,67.54,87.87,77.71,High
+Market Coffee,Green Cup,354.81,True,886,63.11,86.61,74.86,High
+Westside Coffee,Garden Cafe,337.61,True,926,62.78,86.3,74.54,High
+Metro Cafe,Urban Brew,367.63,True,830,59.93,85.04,72.48,High
+Central Cafe,Daily Beans,347.57,True,636,50.92,87.36,69.14,High
+Connaught Coffee,Daily Beans,505.16,True,567,39.08,77.88,58.48,High
+South Point Cafe,Coffee Corner,443.88,True,252,22.64,89.36,56.0,High
+Market Coffee,Morning Mug,568.35,True,461,32.83,76.45,54.64,High
+Garden Cafe,Bean House,535.98,True,138,12.86,92.62,52.74,High
+Green Cup,Morning Mug,591.35,True,397,38.81,65.84,52.32,High
+Metro Cafe,Express Cafe,591.05,True,389,28.09,73.95,51.02,High
+City Brew,Coffee Corner,742.2,True,169,11.67,59.93,35.8,High
+Westside Coffee,Bean House,861.93,True,45,3.05,30.2,16.63,Medium
+Urban Brew,Express Cafe,958.4,True,24,2.46,4.56,3.51,Low
+Connaught Coffee,Bean House,12899.26,False,0,0.0,0.0,0.0,No Geometric Overlap
+Central Cafe,City Brew,2236.82,False,0,0.0,0.0,0.0,No Geometric Overlap
+Connaught Coffee,Garden Cafe,13424.63,False,0,0.0,0.0,0.0,No Geometric Overlap
+Connaught Coffee,Westside Coffee,13758.99,False,0,0.0,0.0,0.0,No Geometric Overlap
+Connaught Coffee,Urban Brew,2779.64,False,0,0.0,0.0,0.0,No Geometric Overlap
+Connaught Coffee,Metro Cafe,2432.35,False,0,0.0,0.0,0.0,No Geometric Overlap
+Central Cafe,Westside Coffee,13909.18,False,0,0.0,0.0,0.0,No Geometric Overlap
+Central Cafe,Garden Cafe,13575.45,False,0,0.0,0.0,0.0,No Geometric Overlap
+Central Cafe,South Point Cafe,2010.0,False,0,0.0,0.0,0.0,No Geometric Overlap
+Connaught Coffee,Express Cafe,1904.37,False,0,0.0,0.0,0.0,No Geometric Overlap
+Central Cafe,Morning Mug,6757.57,False,0,0.0,0.0,0.0,No Geometric Overlap
+Central Cafe,Coffee Corner,1604.94,False,0,0.0,0.0,0.0,No Geometric Overlap
+Central Cafe,Bean House,13048.72,False,0,0.0,0.0,0.0,No Geometric Overlap
+Central Cafe,Express Cafe,1767.72,False,0,0.0,0.0,0.0,No Geometric Overlap
+City Brew,Green Cup,5007.9,False,0,0.0,0.0,0.0,No Geometric Overlap
+City Brew,Metro Cafe,4507.1,False,0,0.0,0.0,0.0,No Geometric Overlap
+Connaught Coffee,Morning Mug,6670.39,False,0,0.0,0.0,0.0,No Geometric Overlap
+Connaught Coffee,Coffee Corner,1510.27,False,0,0.0,0.0,0.0,No Geometric Overlap
+Central Cafe,Market Coffee,7258.81,False,0,0.0,0.0,0.0,No Geometric Overlap
+Central Cafe,Green Cup,7029.73,False,0,0.0,0.0,0.0,No Geometric Overlap
+Central Cafe,Urban Brew,2610.04,False,0,0.0,0.0,0.0,No Geometric Overlap
+Central Cafe,Metro Cafe,2271.21,False,0,0.0,0.0,0.0,No Geometric Overlap
+Connaught Coffee,City Brew,2096.38,False,0,0.0,0.0,0.0,No Geometric Overlap
+Connaught Coffee,South Point Cafe,1891.2,False,0,0.0,0.0,0.0,No Geometric Overlap
+Connaught Coffee,Market Coffee,7179.69,False,0,0.0,0.0,0.0,No Geometric Overlap
+Connaught Coffee,Green Cup,6959.06,False,0,0.0,0.0,0.0,No Geometric Overlap
+South Point Cafe,Green Cup,5115.9,False,0,0.0,0.0,0.0,No Geometric Overlap
+South Point Cafe,Market Coffee,5318.7,False,0,0.0,0.0,0.0,No Geometric Overlap
+City Brew,Bean House,13600.44,False,0,0.0,0.0,0.0,No Geometric Overlap
+City Brew,Express Cafe,3998.13,False,0,0.0,0.0,0.0,No Geometric Overlap
+City Brew,Morning Mug,4660.09,False,0,0.0,0.0,0.0,No Geometric Overlap
+City Brew,Daily Beans,2580.2,False,0,0.0,0.0,0.0,No Geometric Overlap
+City Brew,Garden Cafe,14104.66,False,0,0.0,0.0,0.0,No Geometric Overlap
+City Brew,Westside Coffee,14442.26,False,0,0.0,0.0,0.0,No Geometric Overlap
+City Brew,Market Coffee,5193.72,False,0,0.0,0.0,0.0,No Geometric Overlap
+City Brew,Urban Brew,4840.93,False,0,0.0,0.0,0.0,No Geometric Overlap
+Market Coffee,Metro Cafe,9411.67,False,0,0.0,0.0,0.0,No Geometric Overlap
+South Point Cafe,Bean House,13725.34,False,0,0.0,0.0,0.0,No Geometric Overlap
+South Point Cafe,Express Cafe,3777.68,False,0,0.0,0.0,0.0,No Geometric Overlap
+South Point Cafe,Garden Cafe,14233.24,False,0,0.0,0.0,0.0,No Geometric Overlap
+South Point Cafe,Westside Coffee,14570.8,False,0,0.0,0.0,0.0,No Geometric Overlap
+South Point Cafe,Metro Cafe,4269.95,False,0,0.0,0.0,0.0,No Geometric Overlap
+Market Coffee,Coffee Corner,5669.76,False,0,0.0,0.0,0.0,No Geometric Overlap
+Market Coffee,Daily Beans,7601.96,False,0,0.0,0.0,0.0,No Geometric Overlap
+Market Coffee,Garden Cafe,18157.18,False,0,0.0,0.0,0.0,No Geometric Overlap
+Market Coffee,Express Cafe,8993.37,False,0,0.0,0.0,0.0,No Geometric Overlap
+Green Cup,Urban Brew,9433.42,False,0,0.0,0.0,0.0,No Geometric Overlap
+Green Cup,Westside Coffee,18492.41,False,0,0.0,0.0,0.0,No Geometric Overlap
+Market Coffee,Bean House,17700.42,False,0,0.0,0.0,0.0,No Geometric Overlap
+Green Cup,Metro Cafe,9158.4,False,0,0.0,0.0,0.0,No Geometric Overlap
+Green Cup,Daily Beans,7370.61,False,0,0.0,0.0,0.0,No Geometric Overlap
+Green Cup,Garden Cafe,18160.61,False,0,0.0,0.0,0.0,No Geometric Overlap
+Green Cup,Express Cafe,8751.96,False,0,0.0,0.0,0.0,No Geometric Overlap
+Market Coffee,Urban Brew,9692.95,False,0,0.0,0.0,0.0,No Geometric Overlap
+Market Coffee,Westside Coffee,18487.72,False,0,0.0,0.0,0.0,No Geometric Overlap
+South Point Cafe,Daily Beans,2356.99,False,0,0.0,0.0,0.0,No Geometric Overlap
+South Point Cafe,Morning Mug,4797.3,False,0,0.0,0.0,0.0,No Geometric Overlap
+South Point Cafe,Urban Brew,4596.44,False,0,0.0,0.0,0.0,No Geometric Overlap
+Metro Cafe,Daily Beans,1932.44,False,0,0.0,0.0,0.0,No Geometric Overlap
+Metro Cafe,Garden Cafe,13495.95,False,0,0.0,0.0,0.0,No Geometric Overlap
+Metro Cafe,Westside Coffee,13816.66,False,0,0.0,0.0,0.0,No Geometric Overlap
+Green Cup,Bean House,17698.38,False,0,0.0,0.0,0.0,No Geometric Overlap
+Green Cup,Coffee Corner,5452.05,False,0,0.0,0.0,0.0,No Geometric Overlap
+Urban Brew,Garden Cafe,13668.9,False,0,0.0,0.0,0.0,No Geometric Overlap
+Urban Brew,Westside Coffee,13987.03,False,0,0.0,0.0,0.0,No Geometric Overlap
+Metro Cafe,Coffee Corner,3847.62,False,0,0.0,0.0,0.0,No Geometric Overlap
+Urban Brew,Coffee Corner,4168.83,False,0,0.0,0.0,0.0,No Geometric Overlap
+Urban Brew,Daily Beans,2276.56,False,0,0.0,0.0,0.0,No Geometric Overlap
+Urban Brew,Morning Mug,9224.27,False,0,0.0,0.0,0.0,No Geometric Overlap
+Urban Brew,Bean House,13132.95,False,0,0.0,0.0,0.0,No Geometric Overlap
+Westside Coffee,Daily Beans,13800.41,False,0,0.0,0.0,0.0,No Geometric Overlap
+Westside Coffee,Coffee Corner,14565.26,False,0,0.0,0.0,0.0,No Geometric Overlap
+Metro Cafe,Morning Mug,8935.13,False,0,0.0,0.0,0.0,No Geometric Overlap
+Metro Cafe,Bean House,12960.02,False,0,0.0,0.0,0.0,No Geometric Overlap
+Westside Coffee,Express Cafe,13532.65,False,0,0.0,0.0,0.0,No Geometric Overlap
+Westside Coffee,Morning Mug,17937.91,False,0,0.0,0.0,0.0,No Geometric Overlap
+Garden Cafe,Coffee Corner,14228.03,False,0,0.0,0.0,0.0,No Geometric Overlap
+Garden Cafe,Daily Beans,13468.02,False,0,0.0,0.0,0.0,No Geometric Overlap
+Garden Cafe,Morning Mug,17606.84,False,0,0.0,0.0,0.0,No Geometric Overlap
+Garden Cafe,Express Cafe,13208.13,False,0,0.0,0.0,0.0,No Geometric Overlap
+Daily Beans,Coffee Corner,1952.29,False,0,0.0,0.0,0.0,No Geometric Overlap
+Daily Beans,Morning Mug,7102.56,False,0,0.0,0.0,0.0,No Geometric Overlap
+Daily Beans,Express Cafe,1420.76,False,0,0.0,0.0,0.0,No Geometric Overlap
+Daily Beans,Bean House,12938.97,False,0,0.0,0.0,0.0,No Geometric Overlap
+Coffee Corner,Morning Mug,5160.42,False,0,0.0,0.0,0.0,No Geometric Overlap
+Coffee Corner,Express Cafe,3369.11,False,0,0.0,0.0,0.0,No Geometric Overlap
+Coffee Corner,Bean House,13714.94,False,0,0.0,0.0,0.0,No Geometric Overlap
+Morning Mug,Express Cafe,8503.13,False,0,0.0,0.0,0.0,No Geometric Overlap
+Morning Mug,Bean House,17147.9,False,0,0.0,0.0,0.0,No Geometric Overlap
+Express Cafe,Bean House,12672.94,False,0,0.0,0.0,0.0,No Geometric Overlap
