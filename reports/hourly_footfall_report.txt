@@ -1,0 +1,49 @@
+
+GEOPULSE DAY 6: HOURLY FOOTFALL ANALYSIS
+========================================
+
+Total GPS Records: 10000
+Total Retail Stores: 15
+Hours Analysed: 17
+
+PEAK FOOTFALL HOUR
+------------------
+Hour: 10:00
+GPS Pings: 938
+
+LOWEST FOOTFALL HOUR
+--------------------
+Hour: 12:00
+GPS Pings: 303
+
+HOURLY FOOTFALL SUMMARY
+-----------------------
+ Hour  GPSPingCount
+    7           858
+    8           907
+    9           894
+   10           938
+   11           327
+   12           303
+   13           322
+   14           334
+   15           326
+   16           337
+   17           710
+   18           698
+   19           651
+   20           730
+   21           647
+   22           495
+   23           523
+
+DATA LIMITATIONS
+----------------
+This analysis uses synthetic GPS records and approximate
+simulated store coordinates in Delhi.
+
+GPS ping counts represent simulated location activity,
+not verified customer visits, transactions, or sales.
+
+A single GPS ping can be counted for multiple stores
+when their catchment areas overlap.
