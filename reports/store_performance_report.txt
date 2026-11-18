@@ -1,0 +1,63 @@
+
+DELHI RETAIL STORE PERFORMANCE REPORT
+=====================================
+
+Project: GeoPulse - Hyperlocal Retail Mobility Analytics
+
+1. OVERALL SUMMARY
+------------------
+Total Stores: 15
+Total GPS Pings: 14885
+Average GPS Pings per Store: 992.33
+
+2. TOP PERFORMING STORE
+----------------------
+Store Name: Westside Coffee
+Total GPS Pings: 1475
+Rank: 1
+
+3. LOWEST ACTIVITY STORE
+------------------------
+Store Name: Bean House
+Total GPS Pings: 149
+
+4. PERFORMANCE CATEGORY SUMMARY
+-------------------------------
+PerformanceCategory
+High      6
+Low       5
+Medium    4
+
+5. STORE PERFORMANCE RANKING
+----------------------------
+ PerformanceRank        StoreName StoreCategory  TotalGPSPings  ActiveHours  AverageHourlyPings  PeakHourlyPings PerformanceCategory
+               1  Westside Coffee        Coffee           1475           17           86.764706              132                High
+               2 Connaught Coffee        Coffee           1451           17           85.352941              146                High
+               3        City Brew        Coffee           1448           17           85.176471              146                High
+               4    Market Coffee        Coffee           1404           17           82.588235              132                High
+               5       Metro Cafe          Cafe           1385           17           81.470588              145                High
+               6     Central Cafe          Cafe           1249           17           73.470588              127                High
+               7 South Point Cafe          Cafe           1113           17           65.470588              112              Medium
+               8      Garden Cafe          Cafe           1073           17           63.117647              104              Medium
+               9        Green Cup          Cafe           1023           17           60.176471               98              Medium
+              10       Urban Brew        Coffee            976           17           57.411765              104              Medium
+              11      Daily Beans        Coffee            728           17           42.823529               74                 Low
+              12      Morning Mug          Cafe            603           17           35.470588               64                 Low
+              13     Express Cafe          Cafe            526           17           30.941176               58                 Low
+              14    Coffee Corner        Coffee            282           17           16.588235               30                 Low
+              15       Bean House        Coffee            149           17            8.764706               21                 Low
+
+6. METHODOLOGY AND LIMITATIONS
+------------------------------
+Performance is measured using simulated GPS pings
+within store catchment areas.
+
+High, Medium and Low categories are relative to the
+average GPS activity across the simulated stores.
+
+These values represent spatial activity, not actual
+sales or verified customer visits. The dataset is
+synthetic and store coordinates are approximate.
+
+Average hourly pings are calculated across hours
+where a store recorded at least one GPS ping.
