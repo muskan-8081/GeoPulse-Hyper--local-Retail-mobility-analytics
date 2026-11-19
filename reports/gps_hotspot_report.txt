@@ -1,0 +1,56 @@
+
+DELHI GPS HOTSPOT ANALYSIS REPORT
+=================================
+
+Project: GeoPulse - Hyperlocal Retail Mobility Analytics
+
+1. OVERALL SUMMARY
+------------------
+Total GPS Records: 10000
+Total Active Grid Cells: 93
+Grid Cell Size: 0.005 decimal degrees
+
+2. HIGHEST ACTIVITY HOTSPOT
+---------------------------
+Hotspot Rank: 1
+Latitude: 28.632500
+Longitude: 77.217500
+GPS Pings: 659
+Unique Devices: 367
+
+3. ACTIVITY ZONE DISTRIBUTION
+-----------------------------
+High Activity Zones: 24
+Medium Activity Zones: 47
+Low Activity Zones: 22
+
+4. TOP 10 GPS HOTSPOTS
+---------------------
+ HotspotRank  CenterLatitude  CenterLongitude  GPSPingCount  UniqueDevices ActivityLevel
+           1         28.6325          77.2175           659            367          High
+           2         28.7025          77.1025           630            357          High
+           3         28.6125          77.2075           574            351          High
+           4         28.5675          77.2125           528            327          High
+           5         28.5675          77.2075           489            323          High
+           6         28.7075          77.1025           428            287          High
+           7         28.6475          77.2325           411            281          High
+           8         28.6525          77.2275           410            276          High
+           9         28.6125          77.2125           404            268          High
+          10         28.6475          77.2275           395            294          High
+
+5. METHODOLOGY AND LIMITATIONS
+------------------------------
+GPS coordinates were grouped into geographical grid cells
+using a grid size of 0.005 decimal degrees.
+
+Each cell was ranked based on its GPS ping count.
+
+Activity levels were classified using the 25th and
+75th percentile thresholds.
+
+The dataset is synthetic and represents simulated
+GPS activity, not verified real-world customer movement
+or actual retail footfall.
+
+Grid cells are approximate geographic areas and their
+physical dimensions vary slightly with latitude.
