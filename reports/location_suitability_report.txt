@@ -1,0 +1,23 @@
+RETAIL LOCATION SUITABILITY ANALYSIS
+=============================================
+
+Total hotspots analyzed: 93
+High suitability locations: 46
+Medium suitability locations: 47
+Low suitability locations: 0
+
+TOP 10 RECOMMENDED LOCATIONS
+---------------------------------------------
+ HotspotRank  Latitude  Longitude  GPSPingCount  UniqueDevices ActivityLevel     NearestStore  NearestStoreDistanceMeters  NearbyStoresWithin500m  SuitabilityScore SuitabilityLevel  SuitabilityRank
+           3   28.6125    77.2075           574            351          High        City Brew                      213.71                       1         96.043011             High                1
+           5   28.5675    77.2075           489            323          High    Market Coffee                      246.41                       1         94.752688             High                2
+           6   28.7075    77.1025           428            287          High  Westside Coffee                      378.06                       1         94.107527             High                3
+           2   28.7025    77.1025           630            357          High  Westside Coffee                      177.91                       2         94.021505             High                4
+           7   28.6475    77.2325           411            281          High       Metro Cafe                      369.85                       1         93.462366             High                5
+           8   28.6525    77.2275           410            276          High       Metro Cafe                      369.85                       1         92.817204             High                6
+           4   28.5675    77.2125           528            327          High        Green Cup                      173.79                       2         92.731183             High                7
+           1   28.6325    77.2175           659            367          High Connaught Coffee                      135.87                       3         92.000000             High                8
+          16   28.7025    77.0975           226            187          High  Westside Coffee                      519.10                       0         90.322581             High                9
+          12   28.6275    77.2175           368            251          High Connaught Coffee                      451.58                       1         90.236559             High               10
+
+Note: This analysis uses synthetic GPS data and simulated store locations. Suitability scores are exploratory indicators, not verified market demand.
